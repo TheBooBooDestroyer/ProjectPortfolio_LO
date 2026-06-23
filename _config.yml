@@ -5,6 +5,7 @@ theme: minima
 header_pages:
   - about.md
   - home.md
+  - contact.md
 
 minima:
   skin: dark
