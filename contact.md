@@ -5,4 +5,7 @@ permalink: /docs/contact/
 ---
 
 # Info
-- liamtnt57ggreg
+Email
+- liamtnt57@gmail.com
+Linkedin
+-
