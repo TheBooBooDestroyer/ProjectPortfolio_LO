@@ -1,7 +1,3 @@
-# My Portfolio
+# Project List
 
-## Lists of Projects
-  - MR
-  - Model Rocket
-  - Capstone
     
