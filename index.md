@@ -5,9 +5,5 @@ layout: home
 # Overview
  Here you can find:
 - My projects
-- My resume
+- My [View Resume]({{ "/assets/resume.pdf" | relative_url }})
 - Contact information
-
-[Portfolio](/portfolio/)
-[Resume](/resume/)
-[Contact](/contact/)
