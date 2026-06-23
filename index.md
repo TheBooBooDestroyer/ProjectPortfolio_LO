@@ -1,15 +1,12 @@
 ---
 layout: page
-title: agefgd
+title: Home Page
 ---
 
+### Who I am
+I am a undergraduate student at University of New Hampshire at the Durham campus majoring in Electrical Engineering and this is my website meant to mainly house my engineering portfolio
 
-## ggggg
-
- Here you can find:
-- My projects
-- My [View Resume]({{ "/assets/resume.pdf" | relative_url }})
-- Contact information
-
-## Test
-gergergregreg
+### What you can Find Here
+- Portfolio of all my projects
+- My Resume
+- Contact Information
