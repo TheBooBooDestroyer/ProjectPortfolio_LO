@@ -1,11 +1,11 @@
-title: Liam OBrien Engineering Portfolio
+title: Liam OBrien Personal Website
 
 theme: minima
 
 header_pages:
   - about.md
-  - home.md
+  - portfolio.md
+  - resume.md
   - contact.md
 
-minima:
-  skin: dark
+
